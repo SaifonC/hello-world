@@ -2,4 +2,4 @@
 
 Hi Everybody
 
-My name is Saifon.  I m new to CS50. My blackgrond in Markeing where i learn to manage SEO and Digital site for commercial. I am interested in AI. Khowing that the understanding of basic Computer Science will be a good fundamental.  Thank you.
+My name is Saifon. I m new to CS50. My background in Marketing where i learn to manage SEO and Digital site for commercial. I am interested in AI. Therefore, knowing and understanding the fundamental of Computer Science is become a new challenging.
